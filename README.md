@@ -3,6 +3,9 @@
 This will convert your timecode object from one BPM to another BPM, moving 
 all data on the timeline in grandma3.
 
+CmdEvent and FaderEvent are the only events supported.
+
+
 ## How to install
 #### MacOS:
 ```
