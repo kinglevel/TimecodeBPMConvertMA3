@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.9.3.3">
+    <UserPlugin Name="timecode_BPM" Guid="BA AD F0 0D 35 02 C0 7C 49 68 5A 91 2D F7 6C 7A" Author="LEDvard" Version="0.0.0.4" Path="/timecodeBPM">
+        <ComponentLua Name="timecode_BPM" Guid="BA AD F0 0D A2 BB 1E 15 68 FC 13 A0 98 CE F5 7A" FileName="timecode_BPM.lua" />
+    </UserPlugin>
+</GMA3>

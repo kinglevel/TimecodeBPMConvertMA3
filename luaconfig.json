@@ -1,0 +1,8 @@
+{
+    "version": "Lua 5.1",
+    "intelliSense": {
+        "searchPaths": [
+            "./definitions"
+        ]
+    }
+}
