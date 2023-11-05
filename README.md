@@ -13,4 +13,5 @@ git clone https://github.com/kinglevel/TimecodeBPMConvert
 #### Windows:
 ```
 cd %ProgramData%/MALightingTechnology/gma3_library/datapools/plugins/
+git clone https://github.com/kinglevel/TimecodeBPMConvert
 ```
