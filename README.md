@@ -1,13 +1,9 @@
 # TimecodeBPMConvert
 
-##How to install
-####cd to your plugin folder
+Only tested on Debian 12
 
-'''
-cd gma3_library/datapools/plugins
-'''
-
-####Clone the repo
-'''
-git clone https://github.com/kinglevel/TimecodeBPMConvert
-'''
+## Requirements
+#### update your packages:
+```
+apt update && apt upgrade
+```
