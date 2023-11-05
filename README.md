@@ -1,9 +1,16 @@
 # TimecodeBPMConvert
 
-Only tested on Debian 12
+This will convert your timecode object from one BPM to another BPM, moving 
+all data on the timeline in grandma3.
 
-## Requirements
-#### update your packages:
+## How to install
+#### MacOS:
 ```
-apt update && apt upgrade
+cd ~/MALightingTechnology/gma3_library/datapools/plugins/
+git clone https://github.com/kinglevel/TimecodeBPMConvert
+```
+
+#### Windows:
+```
+cd %ProgramData%/MALightingTechnology/gma3_library/datapools/plugins/
 ```
