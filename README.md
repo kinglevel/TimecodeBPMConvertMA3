@@ -15,3 +15,6 @@ git clone https://github.com/kinglevel/TimecodeBPMConvert
 cd %ProgramData%/MALightingTechnology/gma3_library/datapools/plugins/
 git clone https://github.com/kinglevel/TimecodeBPMConvert
 ```
+
+## How to run
+Import the plugin in grandma3 and run it
