@@ -12,7 +12,8 @@ local messageDescription =  "USE WITH CAUTION, TAKE BACKUPS.\n\n"..
                             "It will create a new timecode object so you wont loose the source timeline"
 
 
--- Almost never tested
+-- Almost never tested.
+-- No support is given.
 
 -- Github: https://github.com/kinglevel
 -- Instagram: @kinglevel
