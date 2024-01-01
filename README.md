@@ -1,7 +1,7 @@
 # TimecodeBPMConvert
 
 This will convert your timecode object from one BPM to another BPM, moving 
-all data on the timeline in grandma3.
+all data on the timeline in GrandMA3.
 
 CmdEvent and FaderEvent are the only events supported.
 
@@ -20,4 +20,4 @@ git clone https://github.com/kinglevel/TimecodeBPMConvert
 ```
 
 ## How to run
-Import the plugin in grandma3 and run it
+Import the plugin in GrandMA3 and run it
