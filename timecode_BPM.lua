@@ -15,7 +15,8 @@ local messageDescription =  "USE WITH CAUTION, TAKE BACKUPS.\n\n"..
 -- Almost never tested
 
 -- Github: https://github.com/kinglevel
--- Please commit or post updates for the community.
+-- Instagram: @kinglevel
+-- Please commit or post updates for the community
 
 
 --[[
@@ -43,6 +44,18 @@ d33N:       /MMh.     dMMMMs     -dMM.       :N33d
     -+ymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNho/.
 
 "Vision will blind. Severance ties. Median am I. True are all lies"
+
+
+███╗   ███╗███████╗███████╗██╗  ██╗██╗   ██╗ ██████╗  ██████╗  █████╗ ██╗  ██╗
+████╗ ████║██╔════╝██╔════╝██║  ██║██║   ██║██╔════╝ ██╔════╝ ██╔══██╗██║  ██║
+██╔████╔██║█████╗  ███████╗███████║██║   ██║██║  ███╗██║  ███╗███████║███████║
+██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║██║   ██║██║   ██║██║   ██║██╔══██║██╔══██║
+██║ ╚═╝ ██║███████╗███████║██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║
+╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+
+
+README: https://github.com/kinglevel/TimecodeBPMConvert
+
 
 ]]--
 
